@@ -3,3 +3,7 @@
 This is the code that contains all the components for my resume in Tex format. 
 
 ### ↳ use Overleaf to compile code
+
+### Used this resume for:
+
+- Staff SWE @ Foundry 
